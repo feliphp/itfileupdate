@@ -12,14 +12,14 @@
    */
 defined('MOODLE_INTERNAL') || die();
 
-$string['modulename'] = 'Actualización de Datos para el ISSSTE';
-$string['modulenameplural'] = 'Actualización de Datos para el ISSSTE';
+$string['modulename'] = 'Actualización de Datos ';
+$string['modulenameplural'] = 'Actualización de Datos';
 $string['parentorg'] = 'Parent';
 $string['itfileupdate_help'] = 'Este es el contenido de la ayuda contextual.';
-$string['itfileupdate'] = 'Actualización de Datos para el ISSSTE';
-$string['pluginadministration'] = 'Actualización de Datos para el ISSSTE '.
+$string['itfileupdate'] = 'Actualización de Datos ';
+$string['pluginadministration'] = 'Actualización de Datos '.
 ' Administración';
-$string['pluginname'] = 'Actualización de Datos para el ISSSTE Plugin ';
+$string['pluginname'] = 'Actualización de Datos  Plugin ';
 $string['link_return_update'] = 'Regresar a Actualización de Datos';
 $string['link_update_form'] = 'Ir al Formulario de Actualización de Datos para el '.
 'ISSSTE';
@@ -32,9 +32,6 @@ $string['label_table_content_numero_empleado'] = 'Número de Empleado';
 $string['label_table_content_delegacion'] = 'Delegación';
 $string['label_table_content_id_sitio'] = 'ID Sitio';
 $string['label_table_content_cargo'] = 'Cargo';
-$string['label_table_content_red'] = 'RED';
-$string['label_table_content_area_adscripcion'] = 'Área de Adscripción';
-$string['label_table_content_ubicacion_laboral'] = 'Ubicación Laboral';
 $string['label_table_content_funcion'] = 'Función';
 $string['label_table_edit'] = 'Editar';
 $string['label_table_download'] = 'Descargar';
@@ -56,8 +53,6 @@ $string['delegacion'] = 'Delegación :';
 $string['id_sitio'] = 'ID Sitio :';
 $string['cargo'] = 'Cargo :';
 $string['ubicacion'] = 'Ubicación :';
-$string['area_adscripcion'] = 'Área de Adscripción :';
-$string['red'] = 'RED :';
 $string['funcion'] = 'Función:';
 $string['cvfile'] = 'Archivo de C.V. en PDF  :';
 $string['label_table_datecreated'] = 'Fecha Creación';
